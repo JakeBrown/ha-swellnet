@@ -2,7 +2,7 @@
   "domain": "swellnet",
   "name": "Swellnet",
   "documentation": "https://www.example.com",
-  "dependencies": ["requests"],
+  "requirements": ["requests"],
   "codeowners": [],
   "requirements": [],
   "version": "1.0.0",
